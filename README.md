@@ -2,8 +2,8 @@
 
 <h1 align="center">Hey There 👋, Fellow Human 😉</h1>
 
-<div align="center">
-  <h4>
+<div align="center" >
+  <h4 >
     So you came to see my github profile. Interesting! I wish you are not stoking me, On "Github"! 😆. <br>
     But in case you want, checkout my social media handles. You will find great things there 😉. <br>
     Anyway, I'm <strong><em> Nitesh khatri </em> </strong>. You can find me on social media with the alias <strong><em> "gokunik"</em> </strong> 😎. <br>
@@ -14,16 +14,21 @@
 
 <div align="center">
     <a href="https://gokunik.me/">
-        <img src="https://img.shields.io/badge/%20💻-gokunik.me-red?style=flat-square">
+        <img src="https://img.shields.io/badge/%20-gokunik.me-red?style=flat-square&logo=google-chrome&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/gokunik/">
-        <img src="https://img.shields.io/badge/%20-gokunik-blue?style=flat-square&logo=linkedin&labelColor=informational">
+        <img src="https://img.shields.io/badge/%20-gokunik-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
     <a href="https://www.twitter.com/Goku_Nik/">
-        <img src="https://img.shields.io/badge/%20-gokunik-9cf?style=flat-square&logo=twitter&labelColor=9cf">
-    </a> 
+        <img src="https://img.shields.io/badge/%20-gokunik-00acee?style=flat-square&logo=twitter&labelColor=00acee&logoColor=white">
+    </a>
+  <hr>
 </div>
 
+<div align="center">
+  <h4 > More Stuff Coming Soon 
+  </h4>
+</div>
 
 
 <!--
