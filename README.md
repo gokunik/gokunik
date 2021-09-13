@@ -6,9 +6,9 @@
   <h3> Things under construction </h3>
   <img src="https://media3.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif?cid=ecf05e47k61gkeoxe1v4by3pp84005p386bbf9bdr00ig21u&rid=giphy.gif&ct=g">
 </div>
-<h5 align="center">
+<!-- <h5 align="center">
   All of my repositories are private at the moment. <br> I am trying to organise my github repos in more organised way.
- </h5>
+ </h5> -->
 <!-- <div align="center" >
   <h4 >
     So you came to see my github profile. Interesting! I wish you are not stoking me, On "Github"! 😆. <br>
@@ -23,13 +23,15 @@
  </h3>
 <div align="center">
     <a href="https://gokunik.me/">
-        <img src="https://img.shields.io/badge/%20-gokunik.me-red?style=flat-square&logo=google-chrome&logoColor=white">
+        <img src="https://img.shields.io/badge/%20-gokunik.me-red?style=for-the-badge&logo=google-chrome&logoColor=white">
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/gokunik/">
-        <img src="https://img.shields.io/badge/%20-gokunik-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/%20-gokunik-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>
+  &nbsp;
     <a href="https://www.twitter.com/Goku_Nik/">
-        <img src="https://img.shields.io/badge/%20-gokunik-00acee?style=flat-square&logo=twitter&labelColor=00acee&logoColor=white">
+        <img src="https://img.shields.io/badge/%20-gokunik-00acee?style=for-the-badge&logo=twitter&labelColor=00acee&logoColor=white">
     </a>
   <hr>
 </div>
