@@ -1,6 +1,6 @@
 ![Gokunik cover](https://user-images.githubusercontent.com/57342034/129469853-d8243b6c-975e-4042-aeed-6e99ae1a7484.gif)
 
-<h1 align="center">Hey There 👋, Fellow Human 😉</h1>
+<h1 align="center">Hey There 👋, Fellow Developer 😉</h1>
 <br>
 <div align="center">
   <h3> Things under construction </h3>
