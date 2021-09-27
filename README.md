@@ -1,11 +1,22 @@
 ![Gokunik cover](https://user-images.githubusercontent.com/57342034/129469853-d8243b6c-975e-4042-aeed-6e99ae1a7484.gif)
 
 <h1 align="center">Hey There 👋, Fellow Developer 😉</h1>
-<br>
 <div align="center">
+  <h3> <code> I'm  <em> Nitesh khatri </em> </code> </h3>
+  <h4> 
+    You can also call me GokuNik. 
+    <br>
+    I'm a <em>computer science </em> graduate, who keeps making and breaking stuff 🛠.
+    <br>
+    I love to work on the <em> web technologies </em> 💻 and also like <em> hybrid app development </em> 📱.
+    <br>
+    Currently, I am on a learning path to become a <em>full-stack </em> developer and a <em> software engineer </em>.
+  </h4>
+</div>
+<!-- <div align="center">
   <h3> Things under construction </h3>
   <img src="https://media3.giphy.com/media/hV1dkT2u1gqTUpKdKy/giphy.gif?cid=ecf05e47k61gkeoxe1v4by3pp84005p386bbf9bdr00ig21u&rid=giphy.gif&ct=g">
-</div>
+</div> -->
 <!-- <h5 align="center">
   All of my repositories are private at the moment. <br> I am trying to organise my github repos in more organised way.
  </h5> -->
@@ -17,7 +28,6 @@
     I am a computer science student, on the path to become a <strong><em> full stack developer </em> </strong>😃.
   </h4>
 </div>  -->
-<br>
 <h3 align="center">
   Find me on other platforms
  </h3>
