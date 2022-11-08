@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nitesh Khatri | Frontend Web developer</title>
+  <meta name="desc" content="Passionate web developer eager to learn and explore world of computer science.">
+  <meta name="keywords" content="Nitesh Khatri, Gokunik, web developer, frontend web developer,Html, css, Javascript">
+
+  <!-- icons cdn -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- boostrap cdn -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- jquery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+  <script src="index.js"></script>
+
+</head>
+
+<body>
+
+  <div class="bg"></div>
+
+  <div class="wrapper">
+    <header id="header">
+      <div class="logo">
+        <img src="images/dp.jpg" alt="Profile picture">
+      </div>
+      <div class="content">
+        <div class="inner">
+          <h1>Hi, I'm Nitesh Khatri</h1>
+          <p class="m-0">Frontend Web developer</p>
+        </div>
+      </div>
+      <nav class="navbar">
+        <ul class="nav-list">
+          <li class="nav-item" data-bs-toggle="modal" data-bs-target="#bio">Bio</li>
+          <li class="nav-item" data-bs-toggle="modal" data-bs-target="#projects">Projects</li>
+          <li class="nav-item" data-bs-toggle="modal" data-bs-target="#resume">Resume</li>
+          <li class="nav-item" data-bs-toggle="modal" data-bs-target="#contact">Contact</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main">
+      <article class="modal fade" id="bio">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header border-0">
+              <h4 class="modal-title">Bio</h4>
+              <button type="button" class="btn text-white" data-bs-dismiss="modal"><i class="bi bi-x-lg"></i></button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+              <div class="banner-img mb-4"><img src="images/cover.jpg" alt="Banner image"></div>
+              <div class="inner-content">
+                <h2>About me</h2>
+                <p>Hi, my name is Nitesh Khatri and I'm from delhi. I am a Frontend Web Developer and computer science
+                  enthusiate. I love to develop websites and explore the world of web development. I have good
+                  knowledge of builing website with HTML, CSS, JavaScript. I have worked on more than 10+ personal and
+                  academic projects using web development technologies.
+                </p>
+
+                <h2>
+                  Education
+                </h2>
+                <p>
+                  At present I am pursuing Masters of Computer Application (MCA) from lovely professional univeristy
+                  with a current CGPA of 8.77. <br>
+                  I completed my Bachelors of Computer Application (BCA) from Lovely Professional University with a CGPA
+                  of 8.74
+                  <br>
+                  I have completed my 10th standard with 7 CGPA and 12th standard with 83% marks.
+                </p>
+              </div>
+            </div>
+
+          </div>
+      </article>
+      <article class="modal fade" id="projects">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header border-0">
+              <h4 class="modal-title">Projects</h4>
+              <button type="button" class="btn text-white" data-bs-dismiss="modal"><i class="bi bi-x-lg"></i></button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+              <div id="accordion">
+
+                <div class="card">
+                  <div class="card-header">
+                    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseOne">
+                      Banda Roti Bank - NGO
+                    </a>
+                  </div>
+                  <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+                    <div class="card-body">
+                      <p><strong>Description: </strong>
+                        Created A project for local NGO situated in Banda Uttar Pradesh. This project was part of my
+                        final year capstone project
+                        <br> <strong>Teckstack: </strong> HTML, CSS, JavaScript, HandleBarJs, Express, Nodejs, MongoDb
+                      </p>
+                      <p>Link to the project: <a target="_blank" class="text-primary"
+                          href="https://banda-roti-bank.herokuapp.com/" alt="link to the website Banda roti bank">Banda
+                          Roti Bank</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header">
+                    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+                      Student ID Card Generator
+                    </a>
+                  </div>
+                  <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+                    <div class="card-body">
+                      <p><strong>Description: </strong> A php CRUD website to generate Student ID card with login and
+                        logout functionality</p>
+                      <p><strong>Teckstack: </strong> HTML, CSS, JavaScript, Bootstrap, PHP and MySql</p>
+                      <p>Link to the project: <a target="_blank" class="text-primary"
+                          href="https://github.com/gokunik/student-IDcard-generator_php-crud-app"
+                          alt="Student ID Card Generator">Github Link</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header">
+                    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+                      FreeCodeCamp Certification Projects
+                    </a>
+                  </div>
+                  <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+                    <div class="card-body">
+                      <p><strong>Description: </strong> A collection a 5 projects under the FreeCodeCamp Responsive web
+                        design Certification</p>
+                      <p><strong>Techstack:</strong>HTML, CSS, JavaScript, Bootstrap </p>
+                      <p>Link to the project: <a target="_blank" class="text-primary"
+                          href="https://github.com/gokunik/FreeCodeCamp">Github Link</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header">
+                    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseFour">
+                      JavaScript Todo Application
+                    </a>
+                  </div>
+                  <div id="collapseFour" class="collapse" data-bs-parent="#accordion">
+                    <div class="card-body">
+                      <p><strong>Description: </strong> A JavaScript todo application with browser local storage
+                        support.</p>
+                      <p><strong>Teckstack: </strong> HTML, CSS, JavaScript, Bootstrap</p>
+                      <p>Link to the project: <a target="_blank" class="text-primary"
+                          href="https://gokunik.github.io/Javascript-Projects/TODO/index.html" target="_blank"
+                          alt="JavasScript Todo application website link">Github Link</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header">
+                    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseFive">
+                      College Hub
+                    </a>
+                  </div>
+                  <div id="collapseFive" class="collapse" data-bs-parent="#accordion">
+                    <div class="card-body">
+                      <p><strong>Description: </strong> Instagram replica. Fetching User data using DummyAPI.</p>
+                      <br>
+                      <p><strong>Teckstack: </strong> HTML, CSS, JavaScript, Bootstrap</p>
+                      <p>Link to the project: <a target="_blank" class="text-primary"
+                          href="https://github.com/gokunik/CollegeHub" target="_blank"
+                          alt="College Hub github link">Github Link</a></p>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+      </article>
+      <article class="modal fade" id="resume">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header border-0">
+              <h4 class="modal-title">Resume</h4>
+              <button type="button" class="btn text-white" data-bs-dismiss="modal"><i class="bi bi-x-lg"></i></button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+              <iframe src="Nitesh_Khatri_Resume.pdf" width="100%" height="500px"></iframe>
+            </div>
+          </div>
+      </article>
+      <article class="modal fade" id="contact">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header border-0">
+              <h4 class="modal-title">Contact</h4>
+              <button type="button" class="btn text-white" data-bs-dismiss="modal"><i class="bi bi-x-lg"></i></button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+              <div class="banner-img mb-4"><img src="images/contactMe.jpg" alt="Banner image"></div>
+
+            </div>
+          </div>
+      </article>
+    </main>
+
+    <footer id="footer">
+      <ul class="social-list d-flex gap-5 justify-content-center">
+        <li class="social-item">
+          <a href="https://www.linkedin.com/in/gokunik/" target="_blank"><i class="bi bi-linkedin"></i></a>
+        </li>
+        <li class="social-item">
+          <a href="https://github.com/gokunik" target="_blank"><i class="bi bi-github"></i></a>
+        </li>
+        <li class="social-item">
+          <a href="https://codepen.io/gokunik" target="_blank"><i class="bi bi-code-slash"></i></a>
+        </li>
+        <li class="social-item">
+          <a href="https://twitter.com/goku_nik" target="_blank"><i class="bi bi-twitter"></i></a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+
+</body>
+
+<script>
+</script>
+
+</html>
