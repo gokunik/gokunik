@@ -18,7 +18,7 @@
   Find me on other platforms
  </h3>
 <div align="center">
-    <a href="https://gokunik.github.io/gokunik/">
+    <a href="https://gokunik.github.io/portfolio/">
         <img src="https://img.shields.io/badge/%20-Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white">
     </a>
     &nbsp;
@@ -32,10 +32,10 @@
   <hr>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h4 > More Stuff Coming Soon 
   </h4>
-</div>
+</div> -->
 
 
 <!--
